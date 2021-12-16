@@ -6,3 +6,4 @@ section ul li a{text-decoration: none; color:#000;}
 section ul li a:hover{text-decoration: underline; color:#000;}
 
 /* detail 스타일 */
+section h2{color:#f0f; font-size:2em;}
